@@ -5,6 +5,7 @@ This repo collects papers, docs, codes about neuromorphic hardware for anyone wh
 - [Survey Papers](#Survey_Papers)
   
 - [Papers](#Papers)
+  - [2026](#2026)
   - [2023](#2023) 
   - [2022](#2022)
   - [2021](#2021)
@@ -25,6 +26,10 @@ This repo collects papers, docs, codes about neuromorphic hardware for anyone wh
 - [[IEEE-JETCAS](https://arxiv.org/abs/2306.15749)] To Spike or Not To Spike: A Digital Hardware Perspective on Deep Learning Acceleration, **2023**.
 - [[IEEE-CICC](https://arxiv.org/abs/2203.07006)] Spiking Neural Network Integrated Circuits: A Review of Trends and Future Directions, **2022**.  
 ## Papers
+
+### 2026
+
+- [GitHub] Catalyst N1: A 128-Core Neuromorphic Processor with STDP Learning and Mesh NoC. [__`digital`__][__`fpga`__][__`open-source`__][[Code](https://github.com/catalyst-neuromorphic/catalyst-n1)]
 
 ### 2023
 

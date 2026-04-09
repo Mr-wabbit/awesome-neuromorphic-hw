@@ -29,8 +29,9 @@ This repo collects papers, docs, codes about neuromorphic hardware for anyone wh
 
 ### 2026
 
-- [[Zenodo](https://doi.org/10.5281/zenodo.18727094)] Catalyst N1: A 131K-Neuron Open Neuromorphic Processor. [__`digital`__][__`fpga`__][__`open-source`__][[Code](https://github.com/catalyst-neuromorphic/catalyst-neurocore)]
-- [[Zenodo](https://doi.org/10.5281/zenodo.18728256)] Catalyst N2: Full Loihi 2 Feature Parity in an Open Neuromorphic Processor. [__`digital`__][__`fpga`__][__`open-source`__][[Code](https://github.com/catalyst-neuromorphic/catalyst-neurocore)][[Benchmarks](https://github.com/catalyst-neuromorphic/catalyst-benchmarks)]
+- [[Zenodo](https://doi.org/10.5281/zenodo.18727094)] Catalyst N1: A 128-Core Neuromorphic Processor. [__`digital`__][__`fpga`__][__`open-source`__][[Code](https://github.com/catalyst-neuromorphic/catalyst-n1)]
+- [[Zenodo](https://doi.org/10.5281/zenodo.18728256)] Catalyst N2: Programmable Neuron Microcode in an Open Neuromorphic Processor. [__`digital`__][__`fpga`__][__`open-source`__][[Code](https://github.com/catalyst-neuromorphic/catalyst-n2)]
+- [[Zenodo](https://zenodo.org/records/18881283)] Catalyst N3: Neuromorphic Processor with TDM Virtualization and Async NoC. [__`digital`__][__`fpga`__][__`open-source`__][[Code](https://github.com/catalyst-neuromorphic/catalyst-n3)]
 
 ### 2023
 
